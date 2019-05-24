@@ -1,0 +1,176 @@
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\csc.exe
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\SMS.Tests.dll.config
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\SMS.Tests.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\SMS.Tests.pdb
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\SMS.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Owin.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\EntityFramework.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\SMS.pdb
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\EntityFramework.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\obj\Debug\SMS.Tests.csprojResolveAssemblyReference.cache
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\obj\Debug\SMS.Tests.dll
+c:\users\sia\documents\visual studio 2015\Projects\SMS\SMS.Tests\obj\Debug\SMS.Tests.pdb
+O:\SMS\SMS.Tests\bin\Debug\roslyn\csc.exe
+O:\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+O:\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+O:\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+O:\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+O:\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+O:\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+O:\SMS\SMS.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+O:\SMS\SMS.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+O:\SMS\SMS.Tests\bin\Debug\roslyn\vbc.exe
+O:\SMS\SMS.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+O:\SMS\SMS.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+O:\SMS\SMS.Tests\bin\Debug\SMS.Tests.dll.config
+O:\SMS\SMS.Tests\bin\Debug\SMS.Tests.dll
+O:\SMS\SMS.Tests\bin\Debug\SMS.Tests.pdb
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+O:\SMS\SMS.Tests\bin\Debug\Newtonsoft.Json.dll
+O:\SMS\SMS.Tests\bin\Debug\SMS.dll
+O:\SMS\SMS.Tests\bin\Debug\System.Web.Helpers.dll
+O:\SMS\SMS.Tests\bin\Debug\System.Web.Mvc.dll
+O:\SMS\SMS.Tests\bin\Debug\System.Web.Razor.dll
+O:\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+O:\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.dll
+O:\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.dll
+O:\SMS\SMS.Tests\bin\Debug\System.Web.Optimization.dll
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.dll
+O:\SMS\SMS.Tests\bin\Debug\Owin.dll
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+O:\SMS\SMS.Tests\bin\Debug\EntityFramework.dll
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+O:\SMS\SMS.Tests\bin\Debug\SMS.pdb
+O:\SMS\SMS.Tests\bin\Debug\Newtonsoft.Json.xml
+O:\SMS\SMS.Tests\bin\Debug\System.Web.Helpers.xml
+O:\SMS\SMS.Tests\bin\Debug\System.Web.Mvc.xml
+O:\SMS\SMS.Tests\bin\Debug\System.Web.Razor.xml
+O:\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.xml
+O:\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+O:\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.xml
+O:\SMS\SMS.Tests\bin\Debug\System.Web.Optimization.xml
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.xml
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+O:\SMS\SMS.Tests\bin\Debug\EntityFramework.xml
+O:\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+O:\SMS\SMS.Tests\obj\Debug\SMS.Tests.csprojResolveAssemblyReference.cache
+O:\SMS\SMS.Tests\obj\Debug\SMS.Tests.dll
+O:\SMS\SMS.Tests\obj\Debug\SMS.Tests.pdb
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\csc.exe
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\vbc.exe
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.Tests.dll.config
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.Tests.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.Tests.pdb
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.Helpers.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.Mvc.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.Razor.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.Optimization.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Owin.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.Services.Broker.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.TransferObjects.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\EntityFramework.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.Service.Interface.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.pdb
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.Helpers.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.Mvc.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.Razor.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\System.Web.Optimization.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.Services.Broker.pdb
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.TransferObjects.pdb
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\EntityFramework.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.Service.Interface.pdb
+E:\p\SMS\SMS\SMS.Tests\obj\Debug\SMS.Tests.dll
+E:\p\SMS\SMS\SMS.Tests\obj\Debug\SMS.Tests.pdb
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\PagedList.dll
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\PagedList.xml
+E:\p\SMS\SMS\SMS.Tests\bin\Debug\SMS.dll.config
+E:\p\SMS\SMS\SMS.Tests\obj\Debug\SMS.Tests.csprojAssemblyReference.cache
+E:\p\SMS\SMS\SMS.Tests\obj\Debug\SMS.Tests.csproj.CoreCompileInputs.cache
+E:\p\SMS\SMS\SMS.Tests\obj\Debug\SMS.Tests.csproj.CopyComplete

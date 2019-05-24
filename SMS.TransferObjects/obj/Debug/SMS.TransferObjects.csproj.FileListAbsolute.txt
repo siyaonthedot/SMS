@@ -1,0 +1,15 @@
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.TransferObjects\bin\Debug\SMS.TransferObjects.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.TransferObjects\bin\Debug\SMS.TransferObjects.pdb
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.TransferObjects\obj\Debug\SMS.TransferObjects.csprojResolveAssemblyReference.cache
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.TransferObjects\obj\Debug\SMS.TransferObjects.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.TransferObjects\obj\Debug\SMS.TransferObjects.pdb
+O:\SMS\SMS.TransferObjects\bin\Debug\SMS.TransferObjects.dll
+O:\SMS\SMS.TransferObjects\bin\Debug\SMS.TransferObjects.pdb
+O:\SMS\SMS.TransferObjects\obj\Debug\SMS.TransferObjects.dll
+O:\SMS\SMS.TransferObjects\obj\Debug\SMS.TransferObjects.pdb
+E:\p\SMS\SMS\SMS.TransferObjects\bin\Debug\SMS.TransferObjects.dll
+E:\p\SMS\SMS\SMS.TransferObjects\bin\Debug\SMS.TransferObjects.pdb
+E:\p\SMS\SMS\SMS.TransferObjects\obj\Debug\SMS.TransferObjects.dll
+E:\p\SMS\SMS\SMS.TransferObjects\obj\Debug\SMS.TransferObjects.pdb
+E:\p\SMS\SMS\SMS.TransferObjects\obj\Debug\SMS.TransferObjects.csprojAssemblyReference.cache
+E:\p\SMS\SMS\SMS.TransferObjects\obj\Debug\SMS.TransferObjects.csproj.CoreCompileInputs.cache

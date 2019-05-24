@@ -1,0 +1,37 @@
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.Services\bin\Debug\SMS.Services.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.Services\bin\Debug\SMS.Services.pdb
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.Services\obj\Debug\SMS.Services.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.Services\obj\Debug\SMS.Services.pdb
+O:\SMS\SMS.Services\bin\Debug\SMS.Services.dll
+O:\SMS\SMS.Services\bin\Debug\SMS.Services.pdb
+O:\SMS\SMS.Services\bin\Debug\SMS.BusinessLogic.dll
+O:\SMS\SMS.Services\bin\Debug\SMS.Service.Interface.dll
+O:\SMS\SMS.Services\bin\Debug\SMS.TransferObjects.dll
+O:\SMS\SMS.Services\bin\Debug\SMS.BusinesLogicModel.dll
+O:\SMS\SMS.Services\bin\Debug\Dapper.dll
+O:\SMS\SMS.Services\bin\Debug\SMS.BusinessLogic.pdb
+O:\SMS\SMS.Services\bin\Debug\SMS.Service.Interface.pdb
+O:\SMS\SMS.Services\bin\Debug\SMS.TransferObjects.pdb
+O:\SMS\SMS.Services\bin\Debug\SMS.BusinesLogicModel.pdb
+O:\SMS\SMS.Services\bin\Debug\Dapper.xml
+O:\SMS\SMS.Services\obj\Debug\SMS.Services.csprojResolveAssemblyReference.cache
+O:\SMS\SMS.Services\obj\Debug\SMS.Services.dll
+O:\SMS\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.Services.dll
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.Services.pdb
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.BusinessLogic.dll
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.Service.Interface.dll
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.TransferObjects.dll
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.BusinesLogicModel.dll
+E:\p\SMS\SMS\SMS.Services\bin\Debug\Dapper.dll
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.BusinessLogic.pdb
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.Service.Interface.pdb
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.TransferObjects.pdb
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.BusinesLogicModel.pdb
+E:\p\SMS\SMS\SMS.Services\bin\Debug\Dapper.xml
+E:\p\SMS\SMS\SMS.Services\obj\Debug\SMS.Services.dll
+E:\p\SMS\SMS\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\p\SMS\SMS\SMS.Services\bin\Debug\SMS.BusinesLogicModel.dll.config
+E:\p\SMS\SMS\SMS.Services\obj\Debug\SMS.Services.csprojAssemblyReference.cache
+E:\p\SMS\SMS\SMS.Services\obj\Debug\SMS.Services.csproj.CoreCompileInputs.cache
+E:\p\SMS\SMS\SMS.Services\obj\Debug\SMS.Services.csproj.CopyComplete

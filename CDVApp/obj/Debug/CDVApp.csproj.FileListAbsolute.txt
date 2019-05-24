@@ -1,0 +1,6 @@
+E:\p\SMS\SMS\CDVApp\bin\Debug\CDVApp.exe.config
+E:\p\SMS\SMS\CDVApp\bin\Debug\CDVApp.exe
+E:\p\SMS\SMS\CDVApp\bin\Debug\CDVApp.pdb
+E:\p\SMS\SMS\CDVApp\obj\Debug\CDVApp.exe
+E:\p\SMS\SMS\CDVApp\obj\Debug\CDVApp.pdb
+E:\p\SMS\SMS\CDVApp\obj\Debug\CDVApp.csproj.CoreCompileInputs.cache

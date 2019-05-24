@@ -1,0 +1,51 @@
+﻿@*@model IEnumerable<SMS.Models.StudentModel>*@
+@model PagedList.IPagedList<SMS.Models.StudentModel>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+<h2 align="center">Students Marks System </h2>
+
+<p>
+    @Html.ActionLink("View more than 5", "StudentsMoreThan5Subject")
+</p>
+<table class="table table-striped">
+    <tr>
+
+        <th>
+         Student Name
+        </th>
+        <th>
+            Student Surname
+        </th>
+        <th>
+            Subject
+        </th>
+        <th>
+            Mark
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.StudentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StudentSurname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Subject)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mark)
+        </td>
+    </tr>
+}
+
+</table>
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+

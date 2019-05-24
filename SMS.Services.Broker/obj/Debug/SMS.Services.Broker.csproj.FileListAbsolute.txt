@@ -1,0 +1,20 @@
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.Services.Broker\bin\Debug\SMS.Services.Broker.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.Services.Broker\bin\Debug\SMS.Services.Broker.pdb
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.pdb
+O:\SMS\SMS.Services.Broker\bin\Debug\SMS.Services.Broker.dll
+O:\SMS\SMS.Services.Broker\bin\Debug\SMS.Services.Broker.pdb
+O:\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.csprojResolveAssemblyReference.cache
+O:\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.dll
+O:\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.pdb
+E:\p\SMS\SMS\SMS.Services.Broker\bin\Debug\SMS.Services.Broker.dll
+E:\p\SMS\SMS\SMS.Services.Broker\bin\Debug\SMS.Services.Broker.pdb
+E:\p\SMS\SMS\SMS.Services.Broker\bin\Debug\SMS.Service.Interface.dll
+E:\p\SMS\SMS\SMS.Services.Broker\bin\Debug\SMS.TransferObjects.dll
+E:\p\SMS\SMS\SMS.Services.Broker\bin\Debug\SMS.Service.Interface.pdb
+E:\p\SMS\SMS\SMS.Services.Broker\bin\Debug\SMS.TransferObjects.pdb
+E:\p\SMS\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.dll
+E:\p\SMS\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.pdb
+E:\p\SMS\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.csprojAssemblyReference.cache
+E:\p\SMS\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.csproj.CoreCompileInputs.cache
+E:\p\SMS\SMS\SMS.Services.Broker\obj\Debug\SMS.Services.Broker.csproj.CopyComplete

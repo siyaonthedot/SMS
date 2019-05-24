@@ -1,0 +1,48 @@
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SM.ConsoleHost\bin\Debug\SM.ConsoleHost.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SM.ConsoleHost\bin\Debug\SM.ConsoleHost.pdb
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.csprojResolveAssemblyReference.cache
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.pdb
+O:\SMS\SM.ConsoleHost\bin\Debug\SM.ConsoleHost.dll.config
+O:\SMS\SM.ConsoleHost\bin\Debug\SM.ConsoleHost.dll
+O:\SMS\SM.ConsoleHost\bin\Debug\SM.ConsoleHost.pdb
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.Services.dll
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.Services.ServiceHosts.dll
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.Service.Interface.dll
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.TransferObjects.dll
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.BusinessLogic.dll
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.BusinesLogicModel.dll
+O:\SMS\SM.ConsoleHost\bin\Debug\Dapper.dll
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.Services.ServiceHosts.pdb
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.Services.pdb
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.Service.Interface.pdb
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.TransferObjects.pdb
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.BusinessLogic.pdb
+O:\SMS\SM.ConsoleHost\bin\Debug\SMS.BusinesLogicModel.pdb
+O:\SMS\SM.ConsoleHost\bin\Debug\Dapper.xml
+O:\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.csprojResolveAssemblyReference.cache
+O:\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.dll
+O:\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.pdb
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SM.ConsoleHost.exe.config
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SM.ConsoleHost.exe
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SM.ConsoleHost.pdb
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.Services.dll
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.Services.ServiceHosts.dll
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.Service.Interface.dll
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.TransferObjects.dll
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.BusinessLogic.dll
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.BusinesLogicModel.dll
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\Dapper.dll
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.Services.ServiceHosts.pdb
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.Services.pdb
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.Service.Interface.pdb
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.TransferObjects.pdb
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.BusinessLogic.pdb
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.BusinesLogicModel.pdb
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\Dapper.xml
+E:\p\SMS\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.exe
+E:\p\SMS\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.pdb
+E:\p\SMS\SMS\SM.ConsoleHost\bin\Debug\SMS.BusinesLogicModel.dll.config
+E:\p\SMS\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.csprojAssemblyReference.cache
+E:\p\SMS\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.csproj.CoreCompileInputs.cache
+E:\p\SMS\SMS\SM.ConsoleHost\obj\Debug\SM.ConsoleHost.csproj.CopyComplete

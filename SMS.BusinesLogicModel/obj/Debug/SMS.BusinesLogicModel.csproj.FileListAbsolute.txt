@@ -1,0 +1,21 @@
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.BusinesLogicModel\bin\Debug\SMS.BusinesLogicModel.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.BusinesLogicModel\bin\Debug\SMS.BusinesLogicModel.pdb
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.dll
+c:\Users\Sia\documents\visual studio 2015\Projects\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.pdb
+O:\SMS\SMS.BusinesLogicModel\bin\Debug\SMS.BusinesLogicModel.dll
+O:\SMS\SMS.BusinesLogicModel\bin\Debug\SMS.BusinesLogicModel.pdb
+O:\SMS\SMS.BusinesLogicModel\bin\Debug\Dapper.dll
+O:\SMS\SMS.BusinesLogicModel\bin\Debug\Dapper.xml
+O:\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.csprojResolveAssemblyReference.cache
+O:\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.dll
+O:\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.pdb
+E:\p\SMS\SMS\SMS.BusinesLogicModel\bin\Debug\SMS.BusinesLogicModel.dll.config
+E:\p\SMS\SMS\SMS.BusinesLogicModel\bin\Debug\SMS.BusinesLogicModel.dll
+E:\p\SMS\SMS\SMS.BusinesLogicModel\bin\Debug\SMS.BusinesLogicModel.pdb
+E:\p\SMS\SMS\SMS.BusinesLogicModel\bin\Debug\Dapper.dll
+E:\p\SMS\SMS\SMS.BusinesLogicModel\bin\Debug\Dapper.xml
+E:\p\SMS\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.dll
+E:\p\SMS\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.pdb
+E:\p\SMS\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.csprojAssemblyReference.cache
+E:\p\SMS\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.csproj.CoreCompileInputs.cache
+E:\p\SMS\SMS\SMS.BusinesLogicModel\obj\Debug\SMS.BusinesLogicModel.csproj.CopyComplete
